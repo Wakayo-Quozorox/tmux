@@ -1,0 +1,2 @@
+# tmux
+Tmux personnal config
